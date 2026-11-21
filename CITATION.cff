@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code in your research, please cite the software release
+  and, when available, the associated peer-reviewed article.
+title: 'Mechanistic modelling of Plasmodium vivax transmission and insecticide-treated net effects'
+type: software
+authors:
+  - family-names: Otolorin
+    given-names: Gbeminiyi Richard
+abstract: >-
+  R source code for a deterministic human-mosquito Plasmodium vivax
+  transmission model, calibration to an insecticide-treated net trial,
+  likelihood profiling, sensitivity analyses and forward projections.
+keywords:
+  - Plasmodium vivax
+  - mechanistic modelling
+  - insecticide-treated nets
+  - malaria
+  - R
+  - Guatemala
